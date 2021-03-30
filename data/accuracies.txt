@@ -1,0 +1,4 @@
+                       Training set RMSE Test set RMSE
+Initial Arima Forecast          46.37004      63.64347
+Auto Arima Forecast             55.29622      55.12722
+Holt-Winters Forecast           56.09318     109.45382

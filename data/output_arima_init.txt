@@ -1,0 +1,10 @@
+Series: deaths_10_18 
+ARIMA(0,1,1)(0,1,1)[52] 
+
+Coefficients:
+          ma1    sma1
+      -0.3984  -1.000
+s.e.   0.0468   0.375
+
+sigma^2 estimated as 2436:  log likelihood=-2268.47
+AIC=4542.94   AICc=4543   BIC=4555.03

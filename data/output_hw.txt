@@ -1,0 +1,7 @@
+Call:
+HoltWinters(x = deaths_10_18)
+
+Smoothing parameters:
+ alpha: 0.6040622
+ beta : 0
+ gamma: 0.7080221

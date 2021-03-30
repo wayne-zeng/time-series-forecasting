@@ -1,0 +1,9 @@
+ARIMA(1,0,0)(1,1,0)[52] with drift 
+
+Coefficients:
+         ar1     sar1   drift
+      0.6625  -0.5517  0.2782
+s.e.  0.0380   0.0418  0.1099
+
+sigma^2 estimated as 3464:  log likelihood=-2299.22
+AIC=4606.43   AICc=4606.53   BIC=4622.56
